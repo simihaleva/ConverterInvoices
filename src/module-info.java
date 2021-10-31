@@ -1,0 +1,3 @@
+module fileParser {
+	requires junit;
+}
